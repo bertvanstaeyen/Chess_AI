@@ -1,3 +1,3 @@
-# Chess AI (Solver)
+# Chess AI 
 
-Does not work yet
+
